@@ -40,7 +40,7 @@ Findings describe usage patterns across trips, not individual customer lifecycle
 •	Chi-square tests to assess associations between user type and temporal variables (year and days of the week)
 •	Welch’s independent samples t-tests to test differences in average trip duration of users groups
 
-Reporting: R scripts and presentation slides
+Reporting: R scripts [https://github.com/Monica-Bonu/Cyclistic-Trips-Analytics/blob/main/Data-Analytics-Script.R] and presentation slides
 
 
 ## **Results & Implications**
