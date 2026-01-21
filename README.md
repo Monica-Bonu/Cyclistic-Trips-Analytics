@@ -20,21 +20,17 @@ How do annual members and casual riders use Cyclistic bikes differently, and wha
 
 ## **Data scope and methodology**
 ### **Data scope**
-Analytical Scope
+*Analytical Scope
 
-•	Data level: Trip-level data (not user-level)
-
-•	Time period: Q1 2019 and Q1 2020 (January–March)
-
-•	User segments: Annual members vs casual riders
+* Data level: Trip-level data (not user-level)
+* Time period: Q1 2019 and Q1 2020 (January–March)
+*	User segments: Annual members vs casual riders
 
 Key dimensions analysed:
 
-•	Trip volume (yearly, monthly, daily, hourly)
-
-•	Trip duration
-
-•	Behavioural differences by user type
+* Trip volume (yearly, monthly, daily, hourly)
+* Trip duration
+* Behavioural differences by user type
 
 Findings describe usage patterns across trips, not individual customer lifecycles, due to the absence of persistent user identifiers.
 
