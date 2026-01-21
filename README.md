@@ -1,3 +1,8 @@
+
+
+<img width="1400" height="1244" alt="Logo" src="https://github.com/user-attachments/assets/0a508346-cb47-49f6-97c1-b7c0887b0747" />
+
+
 # **Cyclistic Trip Analytics**
 ### Behavioural Differences and Membership Growth Opportunities
 
