@@ -1,6 +1,6 @@
 
 
-<img width="500" height="600" alt="Logo" src="https://github.com/user-attachments/assets/0a508346-cb47-49f6-97c1-b7c0887b0747" />
+<img width="300" height="400" alt="Logo" src="https://github.com/user-attachments/assets/0a508346-cb47-49f6-97c1-b7c0887b0747" />
 
 
 # **Cyclistic Trip Analytics**
